@@ -1,0 +1,8 @@
+export const ADD_ORDER_SUCCESS = "ORDER_ADD_SUCCESS";
+export const ADD_ORDER_FAIL = "ORDER_ADD_FAIL";
+export const ADD_ORDER = "ADD_ORDER";
+export const GET_ORDER = "GET_ORDER";
+export const GET_ORDER_SUCCESS = "GET_ORDER_SUCCESS";
+export const GET_ORDER_FAILURE = "GET_ORDER_FAILURE";
+export const CREATE_ORDER = "CREATE_ORDER";
+export const CLOSE_ALERT = "CLOSE_ALERT";

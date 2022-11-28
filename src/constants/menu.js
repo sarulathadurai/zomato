@@ -1,0 +1,11 @@
+export const ADD_MENU_FAIL = "ADD_MENU_FAIL";
+export const ADD_MENU_SUCCESS = "ADD_MENU_SUCCESS ";
+export const GET_MENU_FAIL = "GET_MENU_FAIL";
+export const GET_MENU_SUCCESS = "GET_MENU_SUCCESS ";
+export const GET_COUNT = "GET_COUNT";
+export const ADD_MENU = "ADD_MENU";
+export const GET_MENU = "GET_MENU";
+export const SET_IMAGE = "SET_IMAGE";
+export const UPLOAD_IMAGE = "UPLOAD_IMAGE";
+export const UPLOAD_IMAGE_SUCCESS = "UPLOAD_IMAGE_SUCCESS";
+export const CLOSE_ALERT = "CLOSE_ALERT";

@@ -1,0 +1,43 @@
+import { StyleSheet } from "react-native";
+
+export const Styles = StyleSheet.create({   
+    container:{
+    flexDirection:"row",
+    minWidth:"90%",
+    backgroundColor:"white",
+    borderRadius:5,
+    marginLeft:10,
+    marginRight:10,
+    justifyContent:"space-evenly"
+},
+text:{
+    padding:10,
+    textAlign:'center',
+    flex:1,
+    fontFamily:"RobotoMono-Regular"
+},
+total:{
+    fontSize:30,
+    display:"flex",
+    justifyContent:"center",
+    alignItems:"center",
+    paddingLeft:40,
+    paddingTop:20
+},
+header:{
+    fontSize:17,
+    fontWeight:"500"
+},
+error:{
+    backgroundColor:"#ec0b32",
+},
+success:{
+    backgroundColor:"green"
+},
+alertIcon:{
+    color:"#fff",
+    fontSize:19,
+    fontWeight:"700",
+    padding:5
+}
+})

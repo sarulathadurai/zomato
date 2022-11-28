@@ -1,0 +1,57 @@
+import {StyleSheet} from "react-native";
+
+export const Styles = StyleSheet.create({
+    card:{
+        minWidth:"90%",
+        minHeight:"20%",
+        backgroundColor:"white",
+        borderRadius:5,
+        margin:10,
+    },
+    img:{
+        width:350,
+        height:180,
+    },
+    firstView:{
+        padding:10
+    },
+    secondView:{
+        paddingTop:10,
+        paddingBottom:5,
+        flexDirection:"row",
+        justifyContent:"space-around"
+    },
+    header:{
+        fontSize:17,
+        paddingBottom:4
+    },
+    desc:{
+        color:"#767676"
+    },
+    button:{
+        borderColor:"red",
+        backgroundColor:"#f9afc3",
+        borderWidth:0.5,
+        borderRadius:5,
+        padding:4,
+    },
+    buttonText:{
+        color:"red",
+        fontSize:15,
+    },
+    counter:{
+        flexDirection:"row",
+        justifyContent:"space-evenly",
+        backgroundColor:"#e8424f",
+        borderRadius:5,
+        padding:5
+    },
+    countEl:{
+        color:"#fff",
+        fontSize:15,
+        fontWeight:"700",
+        paddingLeft:3,
+        paddingRight:3
+    },
+})
+

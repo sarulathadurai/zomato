@@ -1,0 +1,40 @@
+import {StyleSheet} from "react-native";
+export const Styles = StyleSheet.create({
+    card:{
+        backgroundColor:"white",
+        borderRadius:5,
+        margin:10,
+    },
+    img:{
+        width:350,
+        height:180,
+    },
+    firstView:{
+        padding:10
+    },
+    secondView:{
+        paddingTop:10,
+        paddingBottom:5,
+        flexDirection:"row",
+        justifyContent:"space-around"
+    },
+    header:{
+        fontSize:17,
+        paddingBottom:4
+    },
+    desc:{
+        color:"#767676"
+    },
+    badge:{
+        width:50,
+        left:0,
+        padding:3,
+        borderRadius:10,
+        backgroundColor:"green",
+    },
+    badgeText:{
+        color:"white",
+        fontWeight:"500",
+    }
+})
+

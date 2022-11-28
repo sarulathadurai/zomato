@@ -1,0 +1,11 @@
+export const ADD_RES = "ADD_RES";
+export const GET_RES = "GET_RES";
+export const ADD_RES_SUCCESS = "ADD_RES_SUCCESS";
+export const ADD_RES_FAIL = "ADD_RES_FAIL";
+export const GET_RES_SUCCESS = "GET_RES_SUCCESS";
+export const GET_RES_FAIL = "GET_RES_FAIL";
+export const UPLOAD_RES_IMAGE = "UPLOAD_RES_IMAGE"; 
+export const UPLOAD_RES_IMAGE_SUCCESS = "UPLOAD_RES_IMAGE_SUCCESS"; 
+export const SET_RES_IMAGE = "SET_RES_IMAGE";
+export const CLOSE_ALERT = "CLOSE_ALERT";
+export const SET_ADDRESS = "SET_ADDRESS";

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "275977589137",
+    "project_id": "zomato-e0030",
+    "storage_bucket": "zomato-e0030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275977589137:android:a2350642087c46f4b40a30",
+        "android_client_info": {
+          "package_name": "com.zomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275977589137-0q34e93ti6uaoeqpvn1etku9koe7hln0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_9HikCpfDHgb2Qzh9CmHsDPcjiNGckA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275977589137-0q34e93ti6uaoeqpvn1etku9koe7hln0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275977589137-ksqg92kulom4vgbij74dieaict3hqlos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Zomato"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
